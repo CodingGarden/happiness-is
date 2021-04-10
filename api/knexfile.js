@@ -15,6 +15,9 @@ module.exports = {
   },
   production: {
     client: 'pg',
-    connection,
+    connection: {
+      ...connection,
+      ssl: { rejectUnauthorized: false },
+    },
   },
 };

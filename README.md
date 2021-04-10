@@ -12,17 +12,23 @@ An app that detects "Happiness is..." messages in twitch chat and aggregates the
 * [x] endpoint to get all messages
 * [x] Setup the client
 * [x] Show all messages in frames
-* [ ] Automatically show latest messages
-* [ ] Set padding style for each frame
+* [x] Validate message length...
+* [x] Set padding style for each frame
 * [ ] DEPLOY
 
 ## Ideas
 
-* Background image for museum wall
-* Background for frames
-* Spacing between frames
+* [x] Background image for museum wall
+* [x] Background for frames
+* [x] Spacing between frames
+* [x] Randomize frame
 * Random spacing above / below frames
-* Randomize displayed messages
+* [x] Randomize displayed messages
+  * [ ] Use tablesample instead of random()...
+* [ ] Use cinemagraphs as the background
+* [ ] Show spotlight above frame
+* [ ] Paginate API response
+* [ ] Infinite Scroll
 
 ## Image Credits
 
