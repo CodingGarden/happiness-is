@@ -37,3 +37,7 @@ An app that detects "Happiness is..." messages in twitch chat and aggregates the
 * http://www.pngall.com/gold-frame-png/download/17652
 * http://www.pngall.com/gold-frame-png/download/17719
 * http://www.pngall.com/gold-frame-png/download/17604
+
+## Deployed instance
+
+* https://happiness-is.surge.sh
